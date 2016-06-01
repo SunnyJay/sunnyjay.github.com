@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sunnyjay.github.io/</loc>
-<lastmod>2016-06-01T11:05:26-00:00</lastmod>
+<lastmod>2016-06-01T11:12:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sunnyjay.github.io/archives.html</loc>
-<lastmod>2016-06-01T11:05:26-00:00</lastmod>
+<lastmod>2016-06-01T11:12:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sunnyjay.github.io/tags.html</loc>
-<lastmod>2016-06-01T11:05:26-00:00</lastmod>
+<lastmod>2016-06-01T11:12:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sunnyjay.github.io/categories.html</loc>
-<lastmod>2016-06-01T11:05:26-00:00</lastmod>
+<lastmod>2016-06-01T11:12:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
